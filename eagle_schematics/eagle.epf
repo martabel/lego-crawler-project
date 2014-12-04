@@ -1,0 +1,37 @@
+[Eagle]
+Version="07 01 00"
+Platform="Linux"
+Serial="62191E841E-LSR-WLM-1EL"
+Globals="Globals"
+Desktop="Desktop"
+
+[Globals]
+AutoSaveProject=1
+UsedLibrary="/home/mabel/apps_sdks/eagle/SparkFun-Eagle-Libraries-master/LilyPad-Wearables.lbr"
+UsedLibrary="/home/mabel/apps_sdks/eagle/SparkFun-Eagle-Libraries-master/SparkFun-Aesthetics.lbr"
+UsedLibrary="/home/mabel/apps_sdks/eagle/SparkFun-Eagle-Libraries-master/SparkFun-AnalogIC.lbr"
+UsedLibrary="/home/mabel/apps_sdks/eagle/SparkFun-Eagle-Libraries-master/SparkFun-Boards.lbr"
+UsedLibrary="/home/mabel/apps_sdks/eagle/SparkFun-Eagle-Libraries-master/SparkFun-Capacitors.lbr"
+UsedLibrary="/home/mabel/apps_sdks/eagle/SparkFun-Eagle-Libraries-master/SparkFun-Connectors.lbr"
+UsedLibrary="/home/mabel/apps_sdks/eagle/SparkFun-Eagle-Libraries-master/SparkFun-DigitalIC.lbr"
+UsedLibrary="/home/mabel/apps_sdks/eagle/SparkFun-Eagle-Libraries-master/SparkFun-DiscreteSemi.lbr"
+UsedLibrary="/home/mabel/apps_sdks/eagle/SparkFun-Eagle-Libraries-master/SparkFun-Displays.lbr"
+UsedLibrary="/home/mabel/apps_sdks/eagle/SparkFun-Eagle-Libraries-master/SparkFun-Electromechanical.lbr"
+UsedLibrary="/home/mabel/apps_sdks/eagle/SparkFun-Eagle-Libraries-master/SparkFun-FreqCtrl.lbr"
+UsedLibrary="/home/mabel/apps_sdks/eagle/SparkFun-Eagle-Libraries-master/SparkFun-LED.lbr"
+UsedLibrary="/home/mabel/apps_sdks/eagle/SparkFun-Eagle-Libraries-master/SparkFun-Passives.lbr"
+UsedLibrary="/home/mabel/apps_sdks/eagle/SparkFun-Eagle-Libraries-master/SparkFun-PowerIC.lbr"
+UsedLibrary="/home/mabel/apps_sdks/eagle/SparkFun-Eagle-Libraries-master/SparkFun-RF.lbr"
+UsedLibrary="/home/mabel/apps_sdks/eagle/SparkFun-Eagle-Libraries-master/SparkFun-Resistors.lbr"
+UsedLibrary="/home/mabel/apps_sdks/eagle/SparkFun-Eagle-Libraries-master/SparkFun-Retired.lbr"
+UsedLibrary="/home/mabel/apps_sdks/eagle/SparkFun-Eagle-Libraries-master/SparkFun-Sensors.lbr"
+
+[Win_1]
+Type="Control Panel"
+Loc="113 115 824 687"
+State=2
+Number=0
+
+[Desktop]
+Screen="1920 1200"
+Window="Win_1"
