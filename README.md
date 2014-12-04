@@ -34,6 +34,7 @@ _German_
   * Arduino Mega 2560
   * CAN*Bus Shield by Seeed Studio v1.0 03/06/2013 http://www.seeedstudio.com/wiki/CAN*BUS_Shield
   * LED, Sensor Platine, siehe Schaltplan
+
 ##Software:
   * Implementierung einer ECU nach einem CAN Katalog
   * Siehe CAN Katalog für eine Beschreibung der CAN Nachrichten TODO
